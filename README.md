@@ -83,7 +83,7 @@ Contributions are always welcome!
 - [ ] [Kubernetes production best practices](https://learnk8s.io/production-best-practices)
 - [ ] [A Guide to the Kubernetes Networking Model](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model)
 - [ ] [47 Things To Become a Kubernetes Expert](https://ymmt2005.hatenablog.com/entry/k8s-things)
-- [ ] [Kubernetes Best Practices 101](https://github.com/diegolnasc/kubernetes-best-practices)
+- [x] [Kubernetes Best Practices 101](https://github.com/diegolnasc/kubernetes-best-practices)
 - [ ] [15 Kubernetes Best Practices Every Developer Should Know](https://spacelift.io/blog/kubernetes-best-practices)
 - [ ] [THE KUBERNETES NETWORKING GUIDE](https://www.tkng.io)
 - [ ] [The life of a DNS query in Kubernetes](https://www.nslookup.io/learning/the-life-of-a-dns-query-in-kubernetes)
